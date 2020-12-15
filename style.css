@@ -1,0 +1,14 @@
+.text{
+    background-color: white;
+    width:  500px;
+    margin: 0 auto;
+    color: tomato;
+    font-size: 10px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

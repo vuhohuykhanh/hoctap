@@ -1,0 +1,14 @@
+p {
+    color: goldenrod;
+    width: 400px;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+div{
+    color: whitesmoke;
+    width: 130px;
+    padding: 20px;
+    background-color: black;
+}
